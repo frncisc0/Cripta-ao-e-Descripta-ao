@@ -70,6 +70,8 @@ Digite a senha correta para descriptografar o arquivo. O arquivo original será 
 
 ![Captura de tela 2024-12-18 214201](https://github.com/user-attachments/assets/969d3cd0-8e3d-4774-80e3-a2b600149426)
 
+![Captura de tela 2024-12-18 214315](https://github.com/user-attachments/assets/2500917d-42eb-411b-89fb-b4d11512c9ac)
+
 Considerações:
 
 Segurança da Senha: Utilize senhas fortes e únicas para cada arquivo criptografado.
