@@ -1,6 +1,4 @@
 #  Tutorial de Criptografia Básica com Ccrypt no Kali Linux
-Sugestão de Estrutura e Redação para o README
-Título: Tutorial de Criptografia Básica com Ccrypt no Kali Linux
 
 Introdução:
 
