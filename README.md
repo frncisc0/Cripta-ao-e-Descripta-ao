@@ -76,3 +76,5 @@ Segurança da Senha: Utilize senhas fortes e únicas para cada arquivo criptogra
 Armazenamento da Chave: Guarde a senha em um local seguro, pois sem ela não é possível descriptografar o arquivo.
 Outros Algoritmos: O Ccrypt oferece suporte a diversos algoritmos de criptografia. Consulte a documentação para mais informações.
 Observação: Este tutorial tem como objetivo educacional e demonstra uma forma básica de criptografia. Para aplicações mais complexas, considere utilizar ferramentas e técnicas mais avançadas.
+
+Disclaimer: A criptografia é uma ferramenta poderosa, mas não garante segurança absoluta. É importante combinar a criptografia com outras medidas de segurança para proteger seus dados de forma eficaz.
